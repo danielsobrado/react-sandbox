@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+react-query-test/public/robots.txt
+react-query-test/public/manifest.json
